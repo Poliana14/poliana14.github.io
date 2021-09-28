@@ -1,0 +1,59 @@
+@charset "UFT-8";
+body {
+ font-family: cursive;
+ font-size: 18px;
+}
+#cabeçalho {
+    background-color: #520015;
+color: white;
+border-style: solid;
+text-align: center;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+
+.imagensv {
+    width: 150px;
+    height: 150px;
+}
+
+#semlactose {
+    text-align: center;
+    font-size: 15px;
+}
+
+#slactose {
+    padding-bottom: 24px;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+#fundopag {
+    color: #520015;
+background-color: #ec9090;
+border: 24px rgb(241, 102, 102) solid;
+}
+
+#cardapio {
+    padding-top: 16px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.espaço {
+    padding-left: 34px;
+    padding-bottom: 14px;
+    text-align: left;
+}
+
+.espaço2 {
+    padding-right: 34px;
+    padding-bottom: 14px;
+    text-align: right;
+}
